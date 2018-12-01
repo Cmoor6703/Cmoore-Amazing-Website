@@ -8,3 +8,6 @@ Welcome to Cmoore's website, in this website we will be learning:
 ## Local Hack Day
 
 We'll be working on different ways to hack and create different items.
+
+
+<img src="/pix/samples/15m.jpg" style="max-width:100%" alt="Sample picture">
